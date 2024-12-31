@@ -1,0 +1,8 @@
+force-quit/
+│
+├── force-quit.py          # Main application file
+├── requirements.py        # Dependencies installer
+├── README.md             # Main documentation
+├── README.txt            # Plain text documentation
+├── README.html           # HTML documentation
+└── .gitignore           # Git ignore file
